@@ -1,0 +1,2 @@
+Adding content in this note.
+Learning git as hard as possible.
